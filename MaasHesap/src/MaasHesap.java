@@ -59,16 +59,11 @@ public class MaasHesap {
 
         System.out.println("\nKESINTILER:");
         System.out.printf("\tSGK Kesintisi\t\t:  %.2f TL\n" , sgkKesintisi);
-
         System.out.printf("\tGelir Vergisi\t\t:  %.2f TL\n" ,gelirVergisi);
-
         System.out.printf("\tDamga Vergisi\t\t:   %.2f TL\n" , damgaVergisi);
-
         System.out.println("\t--------------------");
         System.out.printf(" TOPLAM KESINTI\t\t\t:  %.2f TL\n" , toplamKesinti);
-
         System.out.printf("NET MAAS\t\t\t\t: %.2f TL\n" ,  netMaas);
-
         System.out.println("=====================================\n");
 
         /// HESAPLANACAK ISTATISTIKLER
@@ -78,7 +73,6 @@ public class MaasHesap {
 
         System.out.printf("Kesinti Orani: %.2f\n" ,  kesintiOrani );
         System.out.printf("Saatlik Net Kazanc: %.2f TL\n" , saatliknetKazanc);
-
         System.out.printf("Gunluk Net Kazanc: %.2f TL\n", gunluknetKazanc);
 
         input.close();
