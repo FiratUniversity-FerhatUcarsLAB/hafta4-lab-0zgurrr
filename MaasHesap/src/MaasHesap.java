@@ -1,6 +1,6 @@
 /* Ad Soyad: [Özgür Uluganyan]
  * Ogrenci No: [250541083]
- * Tarih: [25.10.2025]
+ * Tarih: [26.10.2025]
  * Aciklama: Gorev 3 - Maas Hesap
  *
  * Bu program kullanicidan bilgilerini alir ve hesaplamalar yaparak

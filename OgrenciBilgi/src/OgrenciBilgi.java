@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: [Özgür Uluganyan]
  * Ogrenci No: [250541083]
- * Tarih: [25.10.2025]
+ * Tarih: [26.10.2025]
  * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
  *
  * Bu program kullanicidan ogrenci bilgilerini alir ve
