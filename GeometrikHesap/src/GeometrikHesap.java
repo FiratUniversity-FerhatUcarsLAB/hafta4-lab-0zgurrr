@@ -1,11 +1,10 @@
 /* Ad Soyad: [Özgür Uluganyan]
  * Ogrenci No: [250541083]
- * Tarih: [25.10.2025]
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Tarih: [26.10.2025]
+ * Aciklama: Gorev 2 - Geometrik Hesap
  *
- * Bu program kullanicidan ogrenci bilgilerini alir ve
+ * Bu program kullanicidan bilgilerini alir ve hesaplamalar yaparak
  * duzenli bir formatta ekrana yazdirir.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
  */
 
 import java.util.Scanner;
