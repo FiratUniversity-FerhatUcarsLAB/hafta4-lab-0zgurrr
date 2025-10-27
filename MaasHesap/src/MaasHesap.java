@@ -43,7 +43,7 @@ public class MaasHesap {
         System.out.println("\t---------------------");
         System.out.printf("\tTOPLAM GELIR\t\t: %.2f TL\n" , toplamGelir);
 
-        /// SABIT DEEGERLER
+        /// SABIT DEGERLER
         final double SGK_ORANI = 0.14;
         final double GELIR_VERGISI_ORANI = 0.15;
         final double DAMGA_VERGISI_ORANI = 0.00759;
