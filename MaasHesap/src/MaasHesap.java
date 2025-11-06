@@ -8,7 +8,7 @@
  */
 
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class MaasHesap {
     static void main(String[] args) {
