@@ -8,7 +8,7 @@
  * duzenli bir formatta ekrana yazdirir.
  */
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class OgrenciBilgi {
     public static void main(String[] args) {
