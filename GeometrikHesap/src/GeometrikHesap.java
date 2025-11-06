@@ -7,7 +7,7 @@
  * duzenli bir formatta ekrana yazdirir.
  */
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class GeometrikHesap {
     static void main(String[] args) {
